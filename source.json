@@ -2,15 +2,12 @@
   "name": "聚合影视·自建CMS源",
   "url": "https://github.com/3527369477-jpg/tvbox-cms-source",
   "date": "2026-07-10",
-  "desc": "手工筛选的可工作苹果CMS API，全部通过真机验证。\n暴风/IK/非凡/牛牛/极速/量子/豪华/索尼共8个站点。\n仅收录纯CMS接口，不依赖爬虫运行时。",
+  "desc": "手工筛选的稳定CMS视频聚合源。\n\n【重要声明】\n本订阅源文件仅为视频资源索引配置，不存储任何视频内容。\n所有站点均为第三方公开CMS API，用户自行选择使用。\n使用本订阅源访问任何内容的行为及后果由用户自行承担。\n请在遵守当地法律法规的前提下使用。",
+  "disclaimer": "本订阅源不提供、不存储任何视频内容。所有站点均为第三方来源，仅供技术学习参考。使用者须遵守所在地法律法规，自行承担使用风险。",
   "sites": [
     {"key": "bafeng", "name": "暴风", "type": 1, "api": "https://bfzyapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
     {"key": "ikun", "name": "IK", "type": 1, "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/", "searchable": 1, "quickSearch": 1},
-    {"key": "feifan", "name": "非凡", "type": 1, "api": "https://cj.ffzyapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
     {"key": "niuniu", "name": "牛牛", "type": 1, "api": "https://api.niuniuzy.me/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
-    {"key": "jisu", "name": "极速", "type": 1, "api": "https://jszyapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
-    {"key": "liangzi", "name": "量子", "type": 1, "api": "https://cj.lziapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
-    {"key": "haohua", "name": "豪华", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
     {"key": "suoni", "name": "索尼", "type": 1, "api": "https://suoniapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1}
   ]
 }
