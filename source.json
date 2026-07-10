@@ -1,0 +1,19 @@
+{
+  "name": "聚合影视·自建CMS源",
+  "url": "https://github.com/3527369477-jpg/tvbox-cms-source",
+  "date": "2026-07-10",
+  "desc": "手工筛选的可工作苹果CMS API，全部通过HTTP 200验证。每个站点均为纯CMS接口，不依赖爬虫运行时。",
+  "sites": [
+    {"key": "bafeng", "name": "暴风", "type": 1, "api": "https://bfzyapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+    {"key": "ikun", "name": "IK", "type": 1, "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/", "searchable": 1, "quickSearch": 1},
+    {"key": "haiwaikan", "name": "海外看", "type": 1, "api": "https://haiwaikan.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+    {"key": "heimuer", "name": "黑木耳", "type": 1, "api": "https://www.heimuer.tv/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+    {"key": "feifan", "name": "非凡", "type": 1, "api": "https://cj.ffzyapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+    {"key": "niuniu", "name": "牛牛", "type": 1, "api": "https://api.niuniuzy.me/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+    {"key": "jisu", "name": "极速", "type": 1, "api": "https://jszyapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+    {"key": "liangzi", "name": "量子", "type": 1, "api": "https://cj.lziapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+    {"key": "hongniu", "name": "红牛", "type": 1, "api": "https://www.hongniuzy2.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+    {"key": "haohua", "name": "豪华", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+    {"key": "suoni", "name": "索尼", "type": 1, "api": "https://suoniapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1}
+  ]
+}
